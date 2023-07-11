@@ -1,2 +1,2 @@
 # Personal-Expenses
-Primeiro projeto em Flutter
+App de anotações de despesas pessoais
